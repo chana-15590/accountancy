@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://your-backend-domain.com/api'  // יש לעדכן לכתובת האמיתית
+  apiUrl: 'https://accountancy-backend-xxxx.onrender.com/api'  // החליפי xxxx בכתובת האמיתית
 };
